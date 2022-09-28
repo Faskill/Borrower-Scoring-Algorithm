@@ -1,3 +1,5 @@
 .ipynb_checkpoints
+/Cache
+temp.joblib
 *.pkl
 __pycache__
